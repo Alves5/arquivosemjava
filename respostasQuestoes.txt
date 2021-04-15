@@ -1,0 +1,4 @@
+RESPOSTA DA QUESTÃO 8
+R: O modificador de acesso public. Ele permite que qualquer um acesse de qualquer lugar o que deseja.
+RESPOSTA DA QUESTÃO 18
+R: O modificador de acesso protected. Ele somente me permite o acesso pela própria classe cliadora do atributo.
